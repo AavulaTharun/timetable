@@ -91,3 +91,6 @@ Execute the program
 # OUPUT
 ![output](logo.png)
 ![output](https://github.com/AavulaTharun/timetable/blob/main/timetable%20output.png?raw=true)
+
+# result
+the program executed 
